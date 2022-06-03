@@ -9,4 +9,5 @@ In this project i will be using the tools suggested by the book:
 * The project management tool Stack
 * The haskell language server
 <br>
+
 All this available for download [here](https://www.haskell.org/downloads/)
