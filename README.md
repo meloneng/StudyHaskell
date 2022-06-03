@@ -1,6 +1,6 @@
 ## Haskell Study Repo
 Small codes for haskell practice\
-In this project i will be following the book [learnyouahaskell](https://wwww.learnyouahaskell.com)
+In this project i will be following the book [learn you a haskell](https://www.learnyouahaskell.com)
 
 ### Tools used
 In this project i will be using the tools suggested by the book:
